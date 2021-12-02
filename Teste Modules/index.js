@@ -1,0 +1,6 @@
+const calc = require('./Model.js')
+console.log(calc.nome)
+console.log(calc.soma(30,3))
+console.log(calc.multiplica(3,10))
+console.log(calc.subtrai(30,10))
+console.log(calc.divide(40,20))
